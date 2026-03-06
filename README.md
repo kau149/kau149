@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá, eu sou o Kauê Pavan Silva! 👋
 
-<!--
-**kau149/kau149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Sobre mim
+- 🎓 Estudante de Desenvolvimentos de Sistemas
+- 💻 Aprendendo **Pyhon, HTML, CSS e Javascript** no momento
+- 🚀 Objetivo: Me tornar um desenvolvedor
 
-Here are some ideas to get you started:
+🛠️ Tecnologias que estou estudando:
+* HTML e CSS
+* Python (ou a linguagem que você preferir)
+* Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+"Um passo de cada vez, mas sempre para frente."
